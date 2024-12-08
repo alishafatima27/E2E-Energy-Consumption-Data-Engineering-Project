@@ -1,30 +1,30 @@
 [
     {
-        "p_rel_url" : "alishafatima27/E2E-Energy-Consumption-Data-Engineering-Project/refs/heads/main/Dataset/india-electrical-energy-sales-by-sector-statewise.csv",
+        "p_rel_url" : "alishafatima27/E2E-Energy-Consumption-Data-Engineering-Project/refs/heads/main/Dataset/raw/india-electrical-energy-sales-by-sector-statewise.csv",
         "p_sink_folder" : "india-electrical-energy-sales-by-sector-statewise",
         "p_sink_file" : "india-electrical-energy-sales-by-sector-statewise.csv"
     },
 
     {
-        "p_rel_url" : "alishafatima27/E2E-Energy-Consumption-Data-Engineering-Project/refs/heads/main/Dataset/india-residential-electricity-survey-aggregated.csv",
+        "p_rel_url" : "alishafatima27/E2E-Energy-Consumption-Data-Engineering-Project/refs/heads/main/Dataset/raw/india-residential-electricity-survey-aggregated.csv",
         "p_sink_folder" : "india-residential-electricity-survey-aggregatedt",
         "p_sink_file" : "india-residential-electricity-survey-aggregated.csv"
     },
 
     {
-        "p_rel_url" : "alishafatima27/E2E-Energy-Consumption-Data-Engineering-Project/refs/heads/main/Dataset/india_monthly_full_release_long_format.csv",
+        "p_rel_url" : "alishafatima27/E2E-Energy-Consumption-Data-Engineering-Project/refs/heads/main/Dataset/raw/india_monthly_full_release_long_format.csv",
         "p_sink_folder" : "india_monthly_full_release_long_format",
         "p_sink_file" : "india_monthly_full_release_long_format.csv"
     },
 
     {
-        "p_rel_url" : "alishafatima27/E2E-Energy-Consumption-Data-Engineering-Project/refs/heads/main/Dataset/india_yearly_full_release_long_format.csv",
+        "p_rel_url" : "alishafatima27/E2E-Energy-Consumption-Data-Engineering-Project/refs/heads/main/Dataset/raw/india_yearly_full_release_long_format.csv",
         "p_sink_folder" : "india_yearly_full_release_long_format",
         "p_sink_file" : "india_yearly_full_release_long_format.csv"
     },
 
     {
-        "p_rel_url" : "alishafatima27/E2E-Energy-Consumption-Data-Engineering-Project/refs/heads/main/Dataset/posoco-energy-requirement-vs-energy-met.csv",
+        "p_rel_url" : "alishafatima27/E2E-Energy-Consumption-Data-Engineering-Project/refs/heads/main/Dataset/raw/posoco-energy-requirement-vs-energy-met.csv",
         "p_sink_folder" : "posoco-energy-requirement-vs-energy-met",
         "p_sink_file" : "posoco-energy-requirement-vs-energy-met.csv"
     }    
